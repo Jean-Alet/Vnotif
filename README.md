@@ -142,7 +142,7 @@ tail -f monitor.log
 ### Exemple de notification reçue
 
 ```
-🏐 Tournoi @muretvolley
+Tournoi @muretvolley
 Tournoi chez @muretvolley
 https://linktr.ee/muretvolley
 ```
